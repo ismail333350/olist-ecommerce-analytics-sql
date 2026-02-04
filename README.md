@@ -15,7 +15,7 @@ This project demonstrates **production-ready SQL skills** commonly required for 
 
 ## 📂 Dataset Description
 The Olist dataset contains anonymized data from a Brazilian e-commerce marketplace and includes:
-
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download&select=olist_geolocation_dataset.csv
 - Customers
 - Orders
 - Order items
@@ -104,14 +104,6 @@ Some insights that can be derived from this analysis:
 ├── sql/
 │   ├── 01_creation_and_insertion.sql   -- Table creation & CSV data loading
 │   ├── 02_analysis.sql                 -- Business analysis SQL queries
-├── data/
-│   ├── customers.csv
-│   ├── orders.csv
-│   ├── order_items.csv
-│   ├── order_payments.csv
-│   ├── order_reviews.csv
-│   ├── products.csv
-│   ├── sellers.csv
 ├── README.md
 
 
