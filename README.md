@@ -120,7 +120,7 @@ Some insights that can be derived from this analysis:
 ## ▶️ How to Run the Project
 1. Load the Olist dataset into a PostgreSQL database.
 2. Open your SQL editor (pgAdmin / DBeaver / DataGrip).
-3. Run the queries in `olist_business_analysis.sql` sequentially.
+3. Run the queries in `insertion_&_creation.sql` then run `analysis.sql` sequentially.
 4. Review query results and interpret insights.
 
 ---
