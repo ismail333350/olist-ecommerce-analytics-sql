@@ -99,6 +99,8 @@ Some insights that can be derived from this analysis:
 - Delivery time has a noticeable impact on customer review scores.
 - A small number of customers and sellers generate a large portion of total revenue.
 
+- 
+## 📁 Repository Structure
 ├── sql/
 │   ├── 01_creation_and_insertion.sql   -- Table creation & CSV data loading
 │   ├── 02_analysis.sql                 -- Business analysis SQL queries
@@ -112,3 +114,39 @@ Some insights that can be derived from this analysis:
 │   ├── sellers.csv
 ├── README.md
 
+
+---
+
+## ▶️ How to Run the Project
+1. Load the Olist dataset into a PostgreSQL database.
+2. Open your SQL editor (pgAdmin / DBeaver / DataGrip).
+3. Run the queries in `olist_business_analysis.sql` sequentially.
+4. Review query results and interpret insights.
+
+---
+
+## 📈 Skills Demonstrated
+- Translating business questions into SQL queries
+- Writing clean, readable, and optimized SQL
+- Using CTEs for analytical logic
+- Understanding relational data models
+- Performing exploratory data analysis using SQL
+
+---
+
+## 🚀 Future Improvements
+- Create visual dashboards in Power BI or Tableau
+- Add indexes to optimize performance
+- Extend analysis with window functions
+- Build a star schema for BI reporting
+
+---
+
+## 👤 Author
+**Ismail Mahmoud**  
+Data Science Student | SQL & BI Enthusiast  
+
+---
+
+## ⭐ If You Like This Project
+Feel free to ⭐ star the repo or fork it for your own analysis!
