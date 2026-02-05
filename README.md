@@ -136,7 +136,7 @@ Some insights that can be derived from this analysis:
 
 ## 👤 Author
 **Ismail Mahmoud**  
-Data Science Student | SQL & BI Enthusiast  
+Data Analyst | SQL & BI Enthusiast  
 
 ---
 
