@@ -99,13 +99,6 @@ Some insights that can be derived from this analysis:
 - Delivery time has a noticeable impact on customer review scores.
 - A small number of customers and sellers generate a large portion of total revenue.
 
-- 
-## 📁 Repository Structure
-├── sql/
-│   ├── 01_creation_and_insertion.sql   -- Table creation & CSV data loading
-│   ├── 02_analysis.sql                 -- Business analysis SQL queries
-├── README.md
-
 
 ---
 
