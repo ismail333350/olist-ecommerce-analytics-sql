@@ -1,0 +1,25 @@
+1. Who are the top customers by total spending?
+2. Which customers are repeat buyers versus one-time buyers?
+3. What is the average number of orders per customer?
+4. Which cities have the highest number of active customers?
+5. What is the average review score by customer state?
+6. What are the total sales per month?
+7. Which product categories generate the most revenue?
+8. What is the average order value per month?
+9. Which payment types generate the most revenue?
+10. What are the top 10 best-selling products by quantity sold?
+11. Which product categories have the lowest average review scores?
+12. What is the cancellation rate by product category?
+13. Which products have never been sold?
+14. Which products are most frequently bought together?
+15. Who are the top sellers by revenue?
+16. What is the average delivery time for orders?
+17. Which sellers have the fastest delivery times?
+18. How does delivery time relate to review scores?
+19. Which cities have the longest delivery times?
+20. What is the customer lifetime value (LTV) for each customer?
+21. How do customer cohorts behave based on their first purchase month?
+22. What are the top 3 products by revenue within each category?
+23. How does delivery timeliness (late vs on-time) impact review scores?
+24. What is the monthly sales trend and running total over time?
+25. How does overall revenue accumulate over time across months?
