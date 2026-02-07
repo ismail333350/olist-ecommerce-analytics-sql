@@ -60,7 +60,7 @@ DELIMITER ','
 CSV HEADER;
 
 ## 🎯 Business Questions Answered
-This project answers **25 real business questions**, including:
+This project answers **25 real business questions** you will find them in 'bussines questions.txt' file, including:
 
 ### Customer Analysis
 - Who are the top customers by total spending?
