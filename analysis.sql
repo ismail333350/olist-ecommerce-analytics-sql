@@ -40,15 +40,15 @@ GROUP BY c.customer_id;
    ========================================================= */
 WITH nfo AS (
     SELECT 
-        c.customer_id AS customer,
+        c.customer_unique_id AS customer,
         COUNT(o.order_id) AS number_orders
     FROM customers c
-    LEFT JOIN orders o 
+    INNER JOIN orders o 
         ON c.customer_id = o.customer_id
-    GROUP BY c.customer_id
+    GROUP BY c.customer_unique_id
 )
 SELECT 
-    ROUND(AVG(number_orders), 2) AS avg_orders_per_customer
+    ROUND(AVG(number_orders), 4) AS avg_orders_per_customer
 FROM nfo;
 
 
@@ -411,4 +411,5 @@ JOIN olist_order_items_dataset oi
     ON o.order_id = oi.order_id
 GROUP BY month
 ORDER BY month;
+
 
